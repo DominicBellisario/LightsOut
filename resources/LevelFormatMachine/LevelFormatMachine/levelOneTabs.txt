@@ -1,0 +1,162 @@
+Wall (W)	Floor (F)	Empty Space (Nothing)	Level Bounds(B)		Empty Wall	Empty Floor																			
+W:Wall_Normal	F:Floor_Normal	 	B		 	 			F:WoodFloor	W:StoneWall															
+																									
+	B																								B
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	W:StoneWall	W:StoneWall	W:StoneWall	W:StoneWall	W:StoneWall	W:StoneWall	W:StoneWall	W:StoneWall	W:StoneWall	W:StoneWall	W:StoneWall	 	 	 	 	 	 	
+		 	 	 	 	 	 	W:StoneWall	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	W:StoneWall	 	 	 	 	 	 	
+		 	 	 	 	 	 	W:StoneWall	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	W:StoneWall	 	 	 	 	 	 	
+		 	 	 	 	 	 	W:StoneWall	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	W:StoneWall	 	 	 	 	 	 	
+		 	 	 	 	 	 	W:StoneWall	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	W:StoneWall	 	 	 	 	 	 	
+		 	 	 	 	 	 	W:StoneWall	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	W:StoneWall	 	 	 	 	 	 	
+		 	 	 	 	 	 	W:StoneWall	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	W:StoneWall	 	 	 	 	 	 	
+		 	 	 	 	 	 	W:StoneWall	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	W:StoneWall	 	 	 	 	 	 	
+		 	 	 	 	 	 	W:StoneWall	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	W:StoneWall	 	 	 	 	 	 	
+		 	 	 	 	 	 	W:StoneWall	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	W:StoneWall	 	 	 	 	 	 	
+		 	 	 	 	 	 	W:StoneWall	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	W:StoneWall	 	 	 	 	 	 	
+		 	 	 	 	 	 	W:StoneWall	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	W:StoneWall	 	 	 	 	 	 	
+		 	 	 	 	 	 	W:StoneWall	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	W:StoneWall	 	 	 	 	 	 	
+		 	 	 	 	 	 	W:StoneWall	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	W:StoneWall	 	 	 	 	 	 	
+		 	 	 	 	 	 	W:StoneWall	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	W:StoneWall	 	 	 	 	 	 	
+		 	 	 	 	 	 	W:StoneWall	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	W:StoneWall	 	 	 	 	 	 	
+		 	 	 	 	 	 	W:StoneWall	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	F:WoodFloor	W:StoneWall	 	 	 	 	 	 	
+		 	 	 	 	 	 	W:StoneWall	W:StoneWall	W:StoneWall	W:StoneWall	W:StoneWall	W:StoneWall	W:StoneWall	W:StoneWall	W:StoneWall	W:StoneWall	W:StoneWall	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+	B																								B
+																									
+																									
+																									
+																									
+																									
+																									
+	Work Area																								
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
